@@ -7,6 +7,8 @@
    int a = 3
    int b = 4
    printf("a ist %d", a(+/-/%/*)b) is possible
+   -----------------------------
+   a++, !=, 
 
 */
 
